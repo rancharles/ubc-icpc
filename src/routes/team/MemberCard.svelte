@@ -77,6 +77,6 @@
         <Button variant="secondary" href={codeforces}>
             <img src="/codeforces.svg" class="h-4 w-4 dark:invert dark:brightness-0" alt="Codeforces Logo">
         </Button>
-        <Button href={href} class="ml-auto">Learn More</Button>
+        <Button href={href} class="ml-auto">About</Button>
     </Card.Footer>
 </Card.Root>

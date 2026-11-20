@@ -1,5 +1,40 @@
 const teams: Team[] = [
     {
+		year: '2026-2027',
+		name: 'GPT-6.7',
+		members: [
+			{
+				display_name: 'Charles Ran',
+				username: 'cran',
+				role: 'contestant',
+				title: 'Undergrad Year 3',
+                codeforces: 'https://codeforces.com/profile/cran',
+                href: 'https://charlesran.com'
+			},
+			{
+				display_name: 'Lyndon Ho',
+				username: 'lydxn',
+				role: 'contestant',
+				title: 'Undergrad Year 3',
+                codeforces: 'https://codeforces.com/profile/lydxn',
+                href: 'https://lydxn.github.io/'
+			},
+            {
+				display_name: 'Theodore Yang',
+				username: 'fire12324344',
+				role: 'contestant',
+				title: 'Undergrad Year 3',
+                codeforces: 'https://codeforces.com/profile/fire12324344'
+			},
+			{
+				display_name: 'Xingyu Zhou',
+				username: 'cnjzxy',
+				role: 'coach',
+				title: 'PhD Year 4'
+			}
+		]
+	},
+    {
 		year: '2025-2026',
 		name: 'Diamond Dust',
 		members: [
